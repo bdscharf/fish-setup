@@ -1,0 +1,1 @@
+# Disable the greeting message
